@@ -15,8 +15,10 @@ export const NavigationItem = ({
     id, imageUrl, name
 }:NavigationItemProps) => {
     return (
-        <div>
-            server
-        </div>
+        <ActionTooltip side="right" align="center" label={name}>
+            <div>
+                Server
+            </div>
+        </ActionTooltip>
     )
 }
