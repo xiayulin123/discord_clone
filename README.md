@@ -63,4 +63,9 @@ VOICE CALL
 ![VOICECALL](https://github.com/xiayulin123/discord_clone/blob/main/voicepng.png)
 <h2></h2>
 TEXT CHANNEL
-![TEXT]()
+
+![TEXT](https://github.com/xiayulin123/discord_clone/blob/main/conversation.png)
+<h2></h2>
+MONGO DB
+
+![DB](https://github.com/xiayulin123/discord_clone/blob/main/db.png)
