@@ -39,13 +39,16 @@ Explore the project's standout features:
 
 <h2>🛠️ Technical Skills</h2>
 
-*  Frontend Expertise: Proficient in replicating and enhancing the Discord interface to deliver a familiar yet innovative experience.
-*  Real-Time Communication: Leveraging livekit.io and socket.io for seamless video calls, voice calls, and messaging.
-*  Database Management: Utilizing MongoDB for secure and efficient data storage and retrieval.
-*  UI Design: Incorporating Shadcn's UI components to create an appealing and user-friendly interface.
-*  Authentication Security: Implementing Clerk to ensure strong and reliable user authentication.
-*  File Management: Integrating UploadThing to simplify media and file uploads within the platform.
-*  Deployment Mastery: Utilizing Railway to effortlessly deploy DiscordX, ensuring a smooth user experience from the start.
+*  Typescript
+*  Shadcn/ui
+*  Livekit.io
+*  Socket.io
+*  MongoDB
+*  Prisma
+*  Clerk
+*  Railway
+*  React
+*  TailwindCSS
 
 <h2>🎥 Demo</h2>
 
