@@ -47,11 +47,6 @@ Explore the project's standout features:
 *  File Management: Integrating UploadThing to simplify media and file uploads within the platform.
 *  Deployment Mastery: Utilizing Railway to effortlessly deploy DiscordX, ensuring a smooth user experience from the start.
 
-
-
-*   Team Collaboration and Communication
-*   Debugging
-*   Coding Structure
 <h2>🎥 Demo</h2>
 
 Check out a brief demo of the Facial Detection project:
