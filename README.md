@@ -2,21 +2,18 @@
 <p id="description">Welcome to Discord-Clone, where seamless interaction meets cutting-edge technology. Presenting a project that replicates the beloved Discord interface while incorporating a host of powerful features that are set to transform your communication experience.</p>
 
 <div align="center">
-    <a href="https://opencv.org/">
-        <img src="https://img.shields.io/badge/Socket.io-%E2%9C%94-brightgreen" alt="OpenCV">
-    </a>
-    <a href="https://www.tensorflow.org/">
-        <img src="https://img.shields.io/badge/Tensorflow-%E2%9C%94-orange" alt="TensorFlow">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Data_preprocessing">
-        <img src="https://img.shields.io/badge/Data%20Preprocessing-%E2%9C%94-blue" alt="Data Preprocessing">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Siamese_neural_network">
-        <img src="https://img.shields.io/badge/Siamese%20Network-%E2%9C%94-yellow" alt="Siamese Network">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Training,_inference,_and_testing_of_neural_networks">
-        <img src="https://img.shields.io/badge/Model%20Training-%E2%9C%94-lightgrey" alt="Model Training">
-    </a>
+    
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
+[![Shadcn UI](https://img.shields.io/badge/-Shadcn%2Fui-00B4AB?style=flat)](https://shadcn.com/ui)
+[![Livekit.io](https://img.shields.io/badge/-Livekit.io-FF4081?style=flat)](https://livekit.io/)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&style=flat)](https://socket.io/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=flat)](https://www.prisma.io/)
+[![Clerk](https://img.shields.io/badge/-Clerk-0073E0?style=flat)](https://clerk.dev/)
+[![Railway](https://img.shields.io/badge/-Railway-FF6347?style=flat)](https://railway.app/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)](https://tailwindcss.com/)
+
 </div>
 
 <h2>🧐 Features</h2>
