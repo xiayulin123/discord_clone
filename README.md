@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="https://opencv.org/">
-        <img src="https://img.shields.io/badge/OpenCV-%E2%9C%94-brightgreen" alt="OpenCV">
+        <img src="https://img.shields.io/badge/Socket.io-%E2%9C%94-brightgreen" alt="OpenCV">
     </a>
     <a href="https://www.tensorflow.org/">
         <img src="https://img.shields.io/badge/Tensorflow-%E2%9C%94-orange" alt="TensorFlow">
