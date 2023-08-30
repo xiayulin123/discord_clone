@@ -52,14 +52,15 @@ Explore the project's standout features:
 
 <h2>🎥 Demo</h2>
 
-Check out a brief demo of the Facial Detection project:
-False Detection 
-![FalseDetection](https://github.com/xiayulin123/Facial_Recognition/assets/113715923/75ea5a10-d3ce-463e-a34d-e8ad50581aa7)
+Check out a brief demo of the Discord-Clone project:
+FACE CALL 
+![FaceCALL](https://github.com/xiayulin123/discord_clone/blob/main/videopng.png)
 
 
 <h2></h2>
-True Detection
+VOICE CALL
 
-![TrueDetection](https://github.com/xiayulin123/Facial_Recognition/assets/113715923/78fb9ffe-5654-4f06-918e-f831a046e5f7)
+![VOICECALL](https://github.com/xiayulin123/discord_clone/blob/main/voicepng.png)
 <h2></h2>
-This project is a testament to the power of cutting-edge technology and effective teamwork, providing a secure and user-friendly platform for real-time facial detection and verification scenarios.
+TEXT CHANNEL
+![TEXT]()
